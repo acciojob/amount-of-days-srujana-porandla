@@ -1,4 +1,5 @@
 //your JS code here. If required.
+let year=parseInt(year);
 function dayOfAYear(year){
 	
 		if(year%100===0){
