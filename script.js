@@ -19,5 +19,5 @@ function dayOfAYear(year){
 			}
 		}
 }
-console.log(dayOfAYear(year));
+console.log(dayOfAYear(2020));
 	
