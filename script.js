@@ -20,4 +20,3 @@ function dayOfAYear(year){
 }
 console.log(dayOfAYear(year));
 	
-}
