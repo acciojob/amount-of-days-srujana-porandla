@@ -1,7 +1,7 @@
 //your JS code here. If required.
-let year=parseInt(year);
+
 function dayOfAYear(year){
-	
+	let year=parseInt(year);
 		if(year%100===0){
 			if(year%400===0){
 				return 366;
